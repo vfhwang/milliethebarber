@@ -134,13 +134,13 @@ body{
   font-family:'Big Caslon', 'Akzidenz', 'Arial', sans-serif;
   background-color: #090114;
   line-height:1.2;
-  font-size:4rem;
+  font-size:2rem;
   color: #fff;
 }
 
 section{
-    margin: 40px 200px 40px 40px;
-    padding: 0 0 100px 0;
+    margin: 40px 40px 40px 40px;
+    padding: 0 0 40px 0;
 }
 
 a{
@@ -155,11 +155,11 @@ a:hover{
 
 h1, h2, h3, h4{
     font-family: 'Aksidenz', sans-serif;
-    font-size:1.6rem;
+    font-size:1.2rem;
     text-transform: uppercase;
     border-top:1px #fff solid;
     font-weight:600;
-    padding:12px 0 48px 0;
+    padding:12px 0 36px 0;
 }
 
 ul{
@@ -173,11 +173,16 @@ p{
 }
 
 .review p, .book p{
-    font-size: 2.5rem;
+    font-size: 1.6rem;
+    line-height:1.2;
+}
+
+.review p{
+    display:inline;
 }
 
 .review {
-    width:75%;
+    line-height: 0px;
 }
 
 .yellow{
@@ -187,8 +192,40 @@ p{
 p.name{
     display:inline;
     font-family: 'Aksidenz', sans-serif;
-    font-size:1.6rem;
+    font-size:1.2rem;
     text-transform: uppercase;
     font-weight:600;
+    color: #CFCFCF;
 
+}
+
+@media only screen and (min-width: 800px) {
+
+    body{
+      font-size:4rem;
+    }
+
+    section{
+        margin: 40px 25% 40px 40px;
+        padding: 0 0 100px 0;
+    }
+
+    h1, h2, h3, h4{
+        font-size:1.6rem;
+        border-top:1px #fff solid;
+        padding:12px 0 48px 0;
+    }
+
+    .review p, .book p{
+        font-size: 2.5rem;
+        line-height:1.2;
+    }
+
+    p.name{
+        font-size:1.6rem;
+    }
+
+    .review {
+        width:75%;
+    }
 }
