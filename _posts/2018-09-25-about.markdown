@@ -9,4 +9,4 @@ Millie Fogarty has been cutting men’s hair in London’s Soho for the past 20 
 
 Having most recently worked at Sharps in Fitzrovia, she’s now working freelance just around the corner.
 
-To book an appointment call <a href="#">020 7323 9825</a> and ask for Millie.
+To book an appointment call <a href="tel:02073239825">020 7323 9825</a> and ask for Millie.

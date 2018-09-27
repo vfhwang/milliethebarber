@@ -5,8 +5,6 @@ date:   2018-09-25 22:02:28 +0100
 categories:  book
 ---
 
-Call <a href="">020 7323 9825</a> and ask for Millie
+Call <a href="tel:02073239825">020 7323 9825</a> and ask for Millie
 
-Message <a href="">@milliethebarber</a> on Instagram
-
-Email <a href="">milliethebarber@gmail.com</a>
+Message <a href="https://instagram.com/milliethebarber/">@milliethebarber</a> on Instagram
