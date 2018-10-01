@@ -16,11 +16,11 @@
 title: Millie Fogarty, Barber
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Millie Fogarty has been cutting men’s hair in London’s Soho for the past 20 years.
-  In that time she’s built up a loyal clientelle. Having worked most recently for Sharps in Fitzrovia, she’s now working freelance just around the corner.
-  To book an appointment call 079 503 86560 and ask for Millie.
+  Millie Fogarty has been cutting men’s hair in the City and Westend for the past 20 years.
+  Having most recently worked at Sharps in Fitzrovia she’s now working solo, renting a chair on Rathbone Street.
+  To book an appointment call <a href="tel:02073239825">020 7323 9825</a> and ask for Millie.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://milliethebarber.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 name: Millie Fogarty
