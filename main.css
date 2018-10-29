@@ -210,7 +210,13 @@ p.name{
 
 }
 
+img{
+  max-width: 125px;
+}
+
 @media only screen and (min-width: 800px) {
+
+
 
     body{
       font-size:4rem;
@@ -238,5 +244,9 @@ p.name{
 
     .review {
         width:75%;
+    }
+
+    img{
+      max-width: 150px;
     }
 }
