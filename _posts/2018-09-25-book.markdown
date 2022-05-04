@@ -5,4 +5,4 @@ date: 2018-09-25 22:02:28 +0100
 categories: book
 ---
 
-Email milliethebarber@gmail.com or message <a href="https://instagram.com/milliethebarber/">@milliethebarber</a> on Instagram
+Email <a href="mailto:milliethebarber@gmail.com?subject=Appointment booking">milliethebarber@gmail.com</a> or message <a href="https://instagram.com/milliethebarber/">@milliethebarber</a> on Instagram
