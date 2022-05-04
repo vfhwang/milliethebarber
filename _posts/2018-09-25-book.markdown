@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Book"
-date:   2018-09-25 22:02:28 +0100
-categories:  book
+title: "Book"
+date: 2018-09-25 22:02:28 +0100
+categories: book
 ---
 
-Call <a href="tel:02073239825">020 7323 9825</a> and ask for Millie
-
-Message <a href="https://instagram.com/milliethebarber/">@milliethebarber</a> on Instagram
+Email milliethebarber@gmail.com or message <a href="https://instagram.com/milliethebarber/">@milliethebarber</a> on Instagram

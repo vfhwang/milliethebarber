@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Location"
-date:   2018-09-25 22:02:28 +0100
-categories:  location
+title: "Location"
+date: 2018-09-25 22:02:28 +0100
+categories: location
 ---
 
 <a target="_blank" href="https://goo.gl/maps/1ZSu3c7wPLJ2">
-19 Rathbone Street,
-Fitzrovia,
-London,
-W1T 1NE
+Charlotte Street, W1 London 
 </a>
